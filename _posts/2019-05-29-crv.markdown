@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pedestrian Detection in 3D Point Clouds using Deep Neural Networks"
-date:   2019-05-29 22:21:59 +00:00
+date:   2020
 image: /images/pedestrian-detection.png
 categories: research
 author: "Òscar Lorente"
