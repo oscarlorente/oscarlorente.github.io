@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pedestrian Detection in 3D Point Clouds using Deep Neural Networks"
+date:   2020
+image: /images/pedestrian-detection.png
+categories: research
+author: "Òscar Lorente"
+authors: "<strong>Òscar Lorente</strong>, Josep R. Casas, Santiago Royo, Ivan Caminal"
+arxiv: https://arxiv.org/abs/2105.01151
+slides: /pdfs/pedestrian-detection.pdf
+---
+PointNet++ based architecture to classify pedestrians in LIDAR point clouds using 3D clusters obtained by projecting 2D labels.
