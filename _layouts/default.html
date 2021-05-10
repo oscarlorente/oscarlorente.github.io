@@ -54,7 +54,7 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                I'm interested in computer vision and machine learning, especially in 3D vision (Structure from Motion, 3D reconstruction, etc) and gesture recognition.
+                I'm interested in computer vision and machine learning, especially in 3D vision and gesture recognition.
               </p>
             </td>
           </tr>
@@ -74,7 +74,7 @@
               {{post.authors}}
 
               <br>
-              {{ post.date }}
+              {{ post.date | date: "%Y" }}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
